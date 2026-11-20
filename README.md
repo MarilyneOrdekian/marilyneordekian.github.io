@@ -20,7 +20,7 @@ Built with the [academicpages](https://github.com/academicpages/academicpages.gi
 | Media & policy | `_pages/engagement.md` |
 | CV page | `_pages/cv.md` |
 | CV PDF | upload a new file named `Marilyne_Ordekian_CV.pdf` into the `files` folder (it replaces the old one) |
-| Profile photo | upload a square photo named `profile.png` into the `images` folder |
+| Profile photo | upload a square photo named `profile.jpg` into the `images` folder (it replaces the old one) |
 | Top menu | `_data/navigation.yml` |
 
 **Tips**
