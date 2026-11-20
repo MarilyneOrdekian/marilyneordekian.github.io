@@ -69,11 +69,3 @@ Academic service
 * **2024–2026**: Peer review, journals and conferences: [Journal of Criminal Justice](https://www.sciencedirect.com/journal/journal-of-criminal-justice), [Victims and Offenders](https://www.tandfonline.com/journals/uvao20), [UCL Journal of Law and Jurisprudence](https://student-journals.ucl.ac.uk/laj/), [Advances in Financial Technologies (AFT)](https://advfintech.org/aft25/index.html).
 * **2024–2025**: UCL Research in Information Security Reading Group: co-founder; helped run and organise weekly meetings to discuss academic papers within our research group.
 * **2025**: Equity, Diversity, and Inclusion: member of the departmental working group.
-
-Professional experience
-======
-* **Feb. 2019 – Jul. 2025**: Admitted to the Beirut Bar Association, Lawyer/Consultant (currently non-practising). Specialised in consulting tech and FinTech startups and NGOs. Areas of practice: FinTech and FinReg, RegTech, cryptocurrencies, cybercrime, and digital law.
-* **2021**: Associate, Al Jad Law Firm. Local and international practice and consulting: tech law, data privacy, cryptocurrencies, blockchain, contracts, cybercrime.
-* **2019–2021**: Associate, R.M. El Khoury Law Firm. Local and international practice: financial/corporate crime and fraud, tech law, cryptocurrencies, criminal law, contract law, private law.
-* **2016–2019**: Legal Researcher & Research Team Lead, R.M. El Khoury Law Firm. Conducted legal research and led and managed a team of researchers and interns.
-* **2017–2018**: Volunteer Legal Officer, Justice Without Frontiers (funded by Oxfam and the International Commission of Jurists). Legal trainer and consultant on human rights cases (trafficking, domestic abuse).

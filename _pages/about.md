@@ -12,21 +12,15 @@ I am an **Assistant Professor (Research & Education) at the [School of Law, Durh
 
 I bring together my background as a qualified lawyer and my PhD training in computer science to identify, and propose solutions to, novel legal and cybersecurity issues in emerging technologies such as digital assets and AI, including their exploitation by malicious actors or corporations. To do this, I use and develop mixed methodologies that integrate traditional and computational methods across law, criminology, and computer science. My primary aim is to advance evidence-based policymaking and research that creates a safer digital space and enhances agency for technology users.
 
-I completed my PhD at the [Department of Computer Science, University College London](https://www.ucl.ac.uk/computer-science/), on *Cyber (In)Security at the Intersections of Cryptocurrency Regulation, Service Providers, and Users*, supervised by Dr. Marie Vasek and Dr. Ingolf Becker. Before moving into academia, I practised as a lawyer at the Beirut Bar Association, advising tech and FinTech startups and NGOs.
+Before joining Durham, I was a Lecturer at the [Department of Security and Crime Science, University College London](https://www.ucl.ac.uk/security-crime-science/), where I led the Cybercrime modules. I completed my PhD at the [Department of Computer Science, University College London](https://www.ucl.ac.uk/computer-science/), as a member of the [Information Security Research Group](https://sec.cs.ucl.ac.uk/). My thesis, *Cyber (In)Security at the Intersections of Cryptocurrency Regulation, Service Providers, and Users*, was supervised by Dr. Marie Vasek and Dr. Ingolf Becker.
 
 Research interests
 ------
-* Regulation and governance of digital assets and FinTech (including the EU's MiCA and DORA)
-* Cybercrime, and cyber-physical attacks on cryptocurrency users ("wrench attacks")
-* Self-regulation, terms and conditions, and consumer protection in financial services
-* Legal, ethical, privacy, and security issues of AI and LLMs in law
-* Mixed legal and computational research methods
-
-Highlights
-------
-* My work on **[cryptocurrency wrench attacks](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.24)** has been downloaded over 31,000 times and cited in more than 60 news articles, including NBC News, Bloomberg, the L.A. Times, and the N.Y. Times. The Metropolitan Police uses it as a primary reference. [More on media and policy engagement](/engagement/).
-* 2026: Keynote at the International Conference on Mathematical Research for Blockchain Economy, Limassol, Cyprus.
-* 2026: Legal Editor & Consultant for the Royal Society's [*Science and the Law – Electronic Evidence*](https://royalsociety.org/about-us/what-we-do/science-and-law/) programme.
+* Cybersecurity risks of AI in research and legal practice
+* Cybercrime detection and mitigation
+* Darknet marketplaces
+* FinTech/cryptocurrency regulation and governance
+* Socio-technical risk analysis of financial AML frameworks
 
 Contact
 ------
