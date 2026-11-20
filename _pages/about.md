@@ -24,7 +24,7 @@ Research interests
 
 Highlights
 ------
-* My work on **cryptocurrency wrench attacks** has been downloaded over 31,000 times and cited in more than 60 news articles, including NBC News, Bloomberg, the L.A. Times, and the N.Y. Times. The Metropolitan Police uses it as a primary reference. [More on media and policy engagement](/engagement/).
+* My work on **[cryptocurrency wrench attacks](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.24)** has been downloaded over 31,000 times and cited in more than 60 news articles, including NBC News, Bloomberg, the L.A. Times, and the N.Y. Times. The Metropolitan Police uses it as a primary reference. [More on media and policy engagement](/engagement/).
 * 2026: Keynote at the International Conference on Mathematical Research for Blockchain Economy, Limassol, Cyprus.
 * 2026: Legal Editor & Consultant for the Royal Society's [*Science and the Law – Electronic Evidence*](https://royalsociety.org/about-us/what-we-do/science-and-law/) programme.
 

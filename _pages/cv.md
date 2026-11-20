@@ -47,6 +47,10 @@ Scholarships, grants, and awards (total > £252,500)
 * **2013**
   * Academic Excellence Scholarship, Université Saint-Esprit de Kaslik: £19.5K (merit-based, Bachelor of Laws)
 
+Publications
+======
+See [Publications](/publications/) for journal articles, peer-reviewed conference papers, and policy contributions.
+
 Presentations
 ======
 See [Talks](/talks/) for a list of recent keynotes, conference papers, and invited talks.
