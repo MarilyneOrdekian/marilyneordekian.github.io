@@ -1,28 +1,18 @@
-# main links links
+# The menu at the top of every page.
+# Each item needs a "title" (the text shown) and a "url" (the page it opens).
+# Keep the indentation exactly as it is: two spaces before "-", four before "url".
 main:
-      
-  - title: "Portfolio"
-    url: /portfolio/
-
-#  - title: "Research"
- #   url: /research/
-  
   - title: "Publications"
     url: /publications/
-   # url: https://scholar.google.com/citations?user=KOUyhk4AAAAJ&hl=en&oi=ao
-    
-   
+
   - title: "Talks"
-   url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-  
-# - title: "Blog Posts"
- #  url: /year-archive/
-    
- # - title: "CV"
- #  url: /cv/
-    
- # - title: "Guide"
- #   url: /markdown/
+    url: /teaching/
+
+  - title: "Media & Policy"
+    url: /engagement/
+
+  - title: "CV"
+    url: /cv/
