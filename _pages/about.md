@@ -28,4 +28,4 @@ Research interests
 
 Contact
 ------
-Email: [marilyne.ordekian@durham.ac.uk](mailto:marilyne.ordekian@durham.ac.uk)
+Email: [marilyne\[dot\]ordekian\[at\]durham\[dot\]ac\[dot\]uk](mailto:marilyne.ordekian@durham.ac.uk)
