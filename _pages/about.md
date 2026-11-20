@@ -21,6 +21,8 @@ Research interests
 * Darknet marketplaces
 * FinTech/cryptocurrency regulation and governance
 * Socio-technical risk analysis of financial AML frameworks
+* Empirical and data-driven studies
+* Computational law
 
 Contact
 ------
